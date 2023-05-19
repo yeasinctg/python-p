@@ -23,7 +23,7 @@
 
 #data type in python
 
-#1.number 2.string 3.booleans 4.list 5.tupple 6.set 7.dictionaryS
+#1.number 2.string 3.booleans 4.list 5.tupple 6.set 7.dictionarys
 
 #1. number data type---- integer & floating point
 #integer----10 20 25 125
